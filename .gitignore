@@ -1,0 +1,27 @@
+# Dev tools — não enviar para produção
+serve.mjs
+screenshot.mjs
+_mobile_screenshot.mjs
+_screenshot_run.mjs
+_scroll_screenshots.mjs
+
+# Referências e assets de trabalho
+ref.png
+Fotos/Ref.png
+Fotos/ITC.HEIC
+Fotos/ITC.png
+Collor/
+Fonts/
+Copy.md
+CLAUDE.md
+SKILL*.md
+
+# Screenshots de desenvolvimento
+temporary screenshots/
+
+# macOS
+.DS_Store
+**/.DS_Store
+
+# Claude Code
+.claude/
